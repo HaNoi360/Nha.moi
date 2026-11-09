@@ -1,3 +1,0 @@
-<?PHP
-echo "Nha.moi";
-?>
